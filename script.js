@@ -24,8 +24,8 @@ const realityStatus = {
 // Lista de vídeos TikTok para posts recentes (adicione ou remova)
 const postsTikTok = [
   {
-    videoId: '7504427602019405111',
-    descricao: 'Edit Da Freira'
+    videoId: '7513647062345354501',
+    descricao: 'Site Da Freira'
   },
   {
     videoId: '7505961112458890551',

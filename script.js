@@ -28,8 +28,8 @@ const postsTikTok = [
     descricao: 'Site Da Freira'
   },
   {
-    videoId: '7505961112458890551',
-    descricao: 'A Freira Dançando'
+    videoId: '7513974297988320568',
+    descricao: 'video de ia (feito por freira)'
   },
   {
     videoId: '7511846396035681541',
